@@ -1,4 +1,1 @@
-# Comittear solo el DataFrame final
-
-*.csv
-! Boca_DF.csv
+/dataframes_competitions/*
