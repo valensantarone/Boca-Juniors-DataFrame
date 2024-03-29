@@ -8,8 +8,9 @@ El archivo [scrap_url.ipynb](scrap_url.ipynb) tiene la funciones con las que se 
 
 El módulo [covert_to_df.py](convert_to_df.py) convierte el archivo '.csv' para que sea un DataFrame válido para ser usado con pandas.
 
-El archivo [historiales.ipynb](historiales.ipynb) utiliza la librería de matplotlib para crear gráficos de barra que muestran la evolución en el historial de Boca contra un equipo indicado en partidos oficiales de toda la historia.
-
+El archivo [historiales.ipynb](historiales.ipynb) utiliza la librería de matplotlib para crear gráficos de barra que muestran la evolución en el historial de Boca contra un equipo indicado en partidos oficiales a lo largo de toda la historia.
 La carpeta [fonts](fonts/) contiene fuentes de Helvetica, algunas se usaron para estilizar el gráfico de matploblib.
+
+[incides_matches.ipynb](incidences_matches.ipynb) recopila la tabla de incidencias del partido proporcionada por la página usando la URL de un partido en específico.
 
 Pronto se añadirán más funciones y la posibilidad de incluír partidos amistosos.

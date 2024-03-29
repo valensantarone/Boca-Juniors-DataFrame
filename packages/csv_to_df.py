@@ -1,5 +1,4 @@
 # Convert the specified '.csv' file to a DataFrame ready to use with pandas
-
 def to_df(filename):
     import pandas as pd
     
