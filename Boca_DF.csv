@@ -2971,7 +2971,7 @@
 2969;1990-11-25;Fecha 15;Boca;2.0;Deportivo Mandiyú;2.0;Boca Juniors;L;partido/boca-2-deportivo-mandiyu-2-torneo-apertura-1990/2349/1990/41/15.html;Torneo Apertura 1990
 2970;1990-12-01;Fecha 16;Boca;0.0;Estudiantes (LP);0.0;Boca Juniors;L;partido/boca-0-estudiantes-lp-0-torneo-apertura-1990/2350/1990/41/16.html;Torneo Apertura 1990
 2971;1990-12-07;Fecha 17;Newell´s;1.0;Boca;0.0;Newell´s Old Boys;V;partido/newell_s-1-boca-0-torneo-apertura-1990/2351/1990/41/17.html;Torneo Apertura 1990
-2972;1990-12-14;Fecha 18;Boca;;San Lorenzo;;Boca Juniors;L;https://www.historiadeboca.com.ar/partido/boca-pp-san-lorenzo-pp-torneo-apertura-1990/2352/1990/41/18.html;Torneo Apertura 1990
+2972;1990-12-14;Fecha 18;Boca;;San Lorenzo;;Boca Juniors;L;partido/boca-pp-san-lorenzo-pp-torneo-apertura-1990/2352/1990/41/18.html;Torneo Apertura 1990
 2973;1990-12-22;Fecha 19;Platense;1.0;Boca;0.0;Deportivo Español;V;partido/platense-1-boca-0-torneo-apertura-1990/2353/1990/41/19.html;Torneo Apertura 1990
 2974;1991-02-24;Fecha 1;Argentinos;1;Boca;3;Vélez Sársfield;V;partido/argentinos-1-boca-3-torneo-clausura-1991/2384/1991/42/1.html;Torneo Clausura 1991
 2975;1991-02-27;Primera Fase. Partido 1;Boca;4;River;3;Boca Juniors;L;partido/boca-4-river-3-copa-libertadores-1991/2403/1991/107/1.html;Libertadores 1991
@@ -3707,7 +3707,7 @@
 3705;2005-06-14;Cuartos De Final. Partido de Vuelta;Boca;0;Guadalajara (Méx);0;Boca Juniors;L;partido/boca-0-guadalajara-mex-0-copa-libertadores-2005/3146/2005/103/10.html;Libertadores 2005
 3706;2005-06-19;Fecha 17;Newell´s;1;Boca;0;Newell´s Old Boys;V;partido/newell_s-1-boca-0-torneo-clausura-2005/3147/2005/42/17.html;Torneo Clausura 2005
 3707;2005-06-26;Fecha 18;Boca;0;Quilmes;0;San Lorenzo de Almagro;L;partido/boca-0-quilmes-0-torneo-clausura-2005/3148/2005/42/18.html;Torneo Clausura 2005
-3708;2005-07-03;Fecha 19;Almagro;;Boca;;Almagro;V;"partido/almagro-pp-boca-pp-torneo-clausura-2005/3149/2005/42/19.html;Torneo Clausura 2005";Torneo Clausura 2005
+3708;2005-07-03;Fecha 19;Almagro;;Boca;;Almagro;V;partido/almagro-pp-boca-pp-torneo-clausura-2005/3149/2005/42/19.html;Torneo Clausura 2005
 3709;2005-08-07;Fecha 1;Boca;4;Gimnasia (J);1;San Lorenzo de Almagro;L;partido/boca-4-gimnasia-j-1-torneo-apertura-2005/3150/2005/41/1.html;Torneo Apertura 2005
 3710;2005-08-14;Fecha 2;Boca;2;R. Central;2;Boca Juniors;L;partido/boca-2-r-central-2-torneo-apertura-2005/3151/2005/41/2.html;Torneo Apertura 2005
 3711;2005-08-21;Fecha 3;Lanús;1;Boca;1;Lanús;V;partido/lanus-1-boca-1-torneo-apertura-2005/3152/2005/41/3.html;Torneo Apertura 2005
@@ -4617,3 +4617,10 @@
 4615;2024-04-09;Primera Fase. Partido 2;Boca;1;Sp. Trinidense;0;Boca Juniors;L;partido/boca-1-sp-trinidense-0-copa-sudamericana-2024/6500/2024/455/2.html;Copa Sudamericana 2024
 4616;2024-04-12;Fecha 11;Estudiantes (LP);1;Boca;0;Estudiantes (La Plata);V;partido/estudiantes-lp-1-boca-0-copa-liga-profesional-2024/6501/2024/1701/13.html;Copa Liga Profesional 2024
 4617;2024-04-16;Fecha 14;Boca;1;Godoy Cruz (Mza.);0;Boca Juniors;L;partido/boca-1-godoy-cruz-mza-0-copa-liga-profesional-2024/6502/2024/1701/14.html;Copa de Liga Profesional 2024
+4618;2024-04-21;Cuartos de Final. Partido Único;Boca;3;River;2;Mario Kempes (Córdoba);N;partido/boca-3-river-2-copa-liga-profesional-2024/6503/2024/1701/15.html;Copa de Liga Profesional 2024
+4619;2024-04-25;Primera Fase. Partido 3;Fortaleza (Bra);4;Boca;2;Castelão (Fortaleza);V;partido/fortaleza-bra-4-boca-2-copa-sudamericana-2024/6504/2024/455/3.html;Copa Sudamericana 2024
+4620;2024-04-30;Semifinales. Partido Único;Boca;1 (1);Estudiantes (LP);1 (3);Mario Kempes (Córdoba);N;partido/boca-1-1-estudiantes-lp-1-3-copa-liga-profesional-2024/6505/2024/1701/16.html;Copa de Liga Profesional 2024
+4621;2024-05-08;Primera Fase. Partido 4;Sp. Trinidense;1;Boca;2;General Pablo Rojas (Asunción);V;partido/sp-trinidense-1-boca-2-copa-sudamericana-2024/6506/2024/455/4.html;Copa Sudamericana 2024
+4622;2024-05-12;Fecha 1;Atlético (Tuc);1;Boca;0;Atlético (Tucumán);V;partido/atletico-tuc-1-boca-0-campeonato-2024/6507/2024/1027/1.html;Campeonato 2024
+4623;2024-05-15;Primera Fase. Partido 5;Boca;1;Fortaleza (Bra);1;Boca Juniors;L;partido/boca-1-fortaleza-bra-1-copa-sudamericana-2024/6508/2024/455/5.html;Copa Sudamericana 2024
+4624;2024-05-19;Fecha 2;C. Córdoba (SdE);2;Boca;4;Madre de Ciudades (Santiago);V;partido/c-cordoba-sde-2-boca-4-campeonato-2024/6509/2024/1027/2.html;Campeonato 2024
